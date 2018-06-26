@@ -9,7 +9,7 @@ cd queue<br>
 #get a static lib<br>
 make<br><br>
   
->#test<br>
+#test<br>
 make test<br>
 ```
 
