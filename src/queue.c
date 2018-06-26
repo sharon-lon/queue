@@ -1,3 +1,5 @@
+//Copyright (c) 2018 Sharon Lon <sharon_lon@163.com>
+
 #include <stdio.h>  
 #include <stdlib.h>  
 #include <string.h>
